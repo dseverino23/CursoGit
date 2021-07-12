@@ -13,7 +13,7 @@
         <form action="insertar_registros_perfiles.php" method="get">
         
             <p>
-              <label>Usuario: 
+              <label>Usuario principal: 
                 <input type="text" name="usu">
               </label>
               <br>
