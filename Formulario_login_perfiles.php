@@ -13,11 +13,11 @@
         <form action="pagina_datos_perfiles.php" method="get">
         
             <p>
-              <label>Usuario: 
+              <label>Usuario Principal: 
                 <input type="text" name="usu">
               </label>
               <br>
-              <label>Contraseña: 
+              <label>Contraseña o Password: 
                 <input type="text" name="con">
               </label>
             </p>
